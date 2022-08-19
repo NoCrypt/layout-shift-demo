@@ -1,4 +1,4 @@
-[deployed demo](https://layout-shift-demo.pages.dev/)
+# [deployed demo](https://layout-shift-demo.pages.dev/)
 
 ## Run
 ```bash
