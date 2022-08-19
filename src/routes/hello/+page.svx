@@ -10,6 +10,8 @@
 - rehype-svimg's image didn't appear on first load, thus making the layout shifts
 
 ---
+<!-- What's with different name file you may ask? -->
+<!-- For some reasons, both method generating different key in name file. So they can't access the same file -->
 
 # this one is using basic svimg component :
 <Image src="voli-tapi-beda-nama.jpg" alt="ini alt svimg component"/>
