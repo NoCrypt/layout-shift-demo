@@ -1,0 +1,40 @@
+<script>
+  import Image from 'svimg';
+</script>
+
+---
+[go back.](/)
+
+**How to reproduce :**
+- scroll to bottom of the page then refresh the page (press F5, or ctrl+r)
+- rehype-svimg's image didn't appear on first load, thus making the layout shifts
+
+---
+
+# this one is using basic svimg component :
+<Image src="voli-tapi-beda-nama.jpg" alt="ini alt svimg component"/>
+
+# this one is using rehype-svimg :
+![ini alt rehype-svimg](/voli.jpg)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc scelerisque dui in pharetra ullamcorper. Maecenas luctus nibh dui, ut hendrerit elit suscipit ultricies. Curabitur non auctor tortor. Aliquam id ligula vel quam aliquam gravida nec imperdiet neque. Mauris fringilla dui dolor. Nam semper arcu id egestas pharetra. Nam mollis lacinia ex, ut ultrices sem laoreet eu. Curabitur ullamcorper ante nec turpis fringilla, et ultrices metus volutpat. Aliquam consequat magna semper nisi ullamcorper, vel luctus risus feugiat. Cras at justo est.
+
+Suspendisse vestibulum efficitur est. Nullam tempus molestie lacinia. Praesent tempor quis mauris eget posuere. Fusce consequat nisi nunc, id sollicitudin felis aliquet eu. Nulla laoreet ornare nunc, at feugiat ex efficitur at. Phasellus ligula tortor, facilisis gravida arcu varius, fermentum fermentum felis. Nunc bibendum facilisis sapien, quis mattis leo efficitur vitae.
+
+Morbi sit amet purus vel ipsum eleifend congue. Nunc condimentum orci tristique orci fringilla elementum. Phasellus porttitor, diam at facilisis sagittis, enim libero pellentesque leo, et mattis ex tortor ut tortor. Sed ipsum odio, semper eget eleifend at, sagittis vel nibh. Curabitur mollis magna ac mollis mattis. Vestibulum iaculis augue eget libero hendrerit, sed faucibus neque vestibulum. Nam bibendum erat ut lectus aliquam, dictum vestibulum neque molestie. Proin porta sit amet augue et mattis.
+
+Nam gravida dui et auctor efficitur. Aenean euismod purus vel nulla vulputate aliquam. Praesent vitae arcu faucibus, gravida tortor vitae, tempor justo. Etiam iaculis, metus et accumsan euismod, augue mauris pulvinar neque, non condimentum orci ipsum vel ante. Pellentesque ultricies quam non eleifend tempus. Suspendisse sed tortor vel massa accumsan efficitur eget eu augue. Nullam aliquam, ipsum sed rutrum viverra, nibh ipsum fermentum augue, id consequat diam enim in erat. Morbi lacinia fringilla odio eget interdum. Nunc pharetra sapien mauris, nec scelerisque nulla gravida quis. In pulvinar sapien nulla, vitae commodo leo mollis non. Pellentesque in volutpat risus. Etiam eu viverra felis, at finibus metus. Sed cursus viverra diam, a euismod massa rutrum a. Curabitur aliquam mollis dapibus.
+
+Fusce placerat sapien at faucibus placerat. Morbi semper risus sed orci vulputate, in suscipit libero blandit. Nam a mi laoreet, imperdiet erat id, posuere lorem. Proin hendrerit dolor id lectus maximus tristique. Nullam non congue ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed pellentesque pharetra leo ac lacinia. Ut non quam vel massa tincidunt vestibulum interdum vitae ipsum. Morbi posuere aliquam imperdiet. Pellentesque imperdiet semper urna, eu varius tellus rutrum porttitor. Nunc a justo a tortor molestie ultricies et a enim. Vivamus pellentesque sit amet dui non pulvinar. Proin ac massa nisi.
+
+
+# If you see this, try to refresh here.  
+Fusce placerat sapien at faucibus placerat. Morbi semper risus sed orci vulputate, in suscipit libero blandit. Nam a mi laoreet, imperdiet erat id, posuere lorem. Proin hendrerit dolor id lectus maximus tristique. Nullam non congue ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed pellentesque pharetra leo ac lacinia. Ut non quam vel massa tincidunt vestibulum interdum vitae ipsum. Morbi posuere aliquam imperdiet. Pellentesque imperdiet semper urna, eu varius tellus rutrum porttitor. Nunc a justo a tortor molestie ultricies et a enim. Vivamus pellentesque sit amet dui non pulvinar. Proin ac massa nisi.
+
+Nam gravida dui et auctor efficitur. Aenean euismod purus vel nulla vulputate aliquam. Praesent vitae arcu faucibus, gravida tortor vitae, tempor justo. Etiam iaculis, metus et accumsan euismod, augue mauris pulvinar neque, non condimentum orci ipsum vel ante. Pellentesque ultricies quam non eleifend tempus. Suspendisse sed tortor vel massa accumsan efficitur eget eu augue. Nullam aliquam, ipsum sed rutrum viverra, nibh ipsum fermentum augue, id consequat diam enim in erat. Morbi lacinia fringilla odio eget interdum. Nunc pharetra sapien mauris, nec scelerisque nulla gravida quis. In pulvinar sapien nulla, vitae commodo leo mollis non. Pellentesque in volutpat risus. Etiam eu viverra felis, at finibus metus. Sed cursus viverra diam, a euismod massa rutrum a. Curabitur aliquam mollis dapibus.
+
+Fusce placerat sapien at faucibus placerat. Morbi semper risus sed orci vulputate, in suscipit libero blandit. Nam a mi laoreet, imperdiet erat id, posuere lorem. Proin hendrerit dolor id lectus maximus tristique. Nullam non congue ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed pellentesque pharetra leo ac lacinia. Ut non quam vel massa tincidunt vestibulum interdum vitae ipsum. Morbi posuere aliquam imperdiet. Pellentesque imperdiet semper urna, eu varius tellus rutrum porttitor. Nunc a justo a tortor molestie ultricies et a enim. Vivamus pellentesque sit amet dui non pulvinar. Proin ac massa nisi.
+
+# bottom of the page.
+
+---
